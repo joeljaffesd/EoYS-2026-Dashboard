@@ -1,2 +1,1 @@
-# KickDash
-Basic starter code for an html dashboard 
+# EoYS-2026-Dashboard
